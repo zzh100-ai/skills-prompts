@@ -1,10 +1,14 @@
-# 常用命令
+# 命令
 
-## 配置模型
+## 配置相关
+
+### 配置模型
 
 ```
 hermes model
 ```
+
+---
 
 ## 会话
 
@@ -39,8 +43,4 @@ hermes sessions delete <id>
 hermes sessions stats
 ```
 
-
-
-- hermes sessions browse — 交互式选择器
-- hermes sessions delete <id> — 删除指定会话
-- hermes sessions stats — 查看会话存储统计信息
+---
